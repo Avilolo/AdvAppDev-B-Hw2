@@ -37,7 +37,7 @@ dependencies {
     testImplementation libs.junit
     androidTestImplementation libs.ext.junit
     androidTestImplementation libs.espresso.core
+    implementation implementation(project(':AdvAppDev-B-Hw2-UnitConvertion',))
 
     //Library implementation
-    implementation(project(":UnitConvertion"))
 }

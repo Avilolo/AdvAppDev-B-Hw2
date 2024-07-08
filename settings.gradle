@@ -23,4 +23,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "AdvAppDev-B-Hw2"
 include ':app'
-include ':UnitConvertion'
+include ':AdvAppDev-B-Hw2-UnitConvertion'

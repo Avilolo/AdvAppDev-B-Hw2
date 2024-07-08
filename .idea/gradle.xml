@@ -9,7 +9,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/UnitConvertion" />
+            <option value="$PROJECT_DIR$/AdvAppDev-B-Hw2-UnitConvertion" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
