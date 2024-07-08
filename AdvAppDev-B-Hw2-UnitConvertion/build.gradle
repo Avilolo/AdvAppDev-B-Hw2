@@ -4,6 +4,8 @@ plugins {
 //    id 'com.android.library' version '8.5.0' apply false
 }
 
+
+
 android {
     namespace 'com.example.unitconvertion'
     compileSdk 34
@@ -27,7 +29,6 @@ android {
     }
 }
 
-
 dependencies {
 
     implementation libs.appcompat
@@ -36,3 +37,5 @@ dependencies {
     androidTestImplementation libs.ext.junit
     androidTestImplementation libs.espresso.core
 }
+
+

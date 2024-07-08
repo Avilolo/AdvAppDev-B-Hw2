@@ -4,6 +4,7 @@ plugins {
     id 'com.android.library' version '8.5.0' apply false
 }
 
+
 android {
     namespace 'com.example.advappdev_b_hw2'
     compileSdk 34
@@ -30,6 +31,14 @@ android {
     }
 }
 
+//publishing {
+//    publications {
+//        mavenJava(MavenPublication) {
+//            from components.java
+//        }
+//    }
+//}
+
 dependencies {
     implementation libs.appcompat
     implementation libs.material
@@ -44,3 +53,4 @@ dependencies {
 //    implementation 'com.github.Avilolo:AdvAppDev-B-Hw2:1.00.08'
 
 }
+
